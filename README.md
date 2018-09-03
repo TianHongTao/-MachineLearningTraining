@@ -1,0 +1,2 @@
+# -MachineLearningTraining
+本工程主要记录小组在机器学习算法上的一些尝试练习，主要依托和解决部分Kaggle比赛项目
