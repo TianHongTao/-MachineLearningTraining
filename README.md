@@ -44,6 +44,7 @@
 + 使用sk-learn学习聚类方法(DBSCAN,GaussianMixture,KMeans,AgglomerativeClustering)
 + 实现K-means
 + 实现层次聚类(TODO)
++ 实现KNN算法
 
 ### 降维方法模块
 + PCA降维方法
